@@ -23,7 +23,7 @@ leetcode-solutions/
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 175 | Combine Two Tables | 🟢 Easy | [SQL](easy/175-combine-two-tables/solution.sql) |
+| 175 | Combine Two Tables | 🟢 Easy | [SQL](easy/175-combine-two-tables/solution.sql) / [PANDAS] (easy/175-combine-two-tables/solution.py) |
 
 ## 👤 Author
 
