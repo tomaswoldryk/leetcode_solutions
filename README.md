@@ -9,15 +9,15 @@
 | 🔴 Hard | 0 |
 | **Total** | **1** |
 
-## 🗂️ Structure
+## 📁 Structure
 
-leetcode-solutions/
-├── easy/
-│ └── 175-combine-two-tables/
-├── medium/
-├── hard/
-├── patterns/
-└── templates/
+leetcode-solutions/  
+&nbsp;&nbsp;├── easy/  
+&nbsp;&nbsp;│&nbsp;&nbsp;└── 175-combine-two-tables/  
+&nbsp;&nbsp;├── medium/  
+&nbsp;&nbsp;├── hard/  
+&nbsp;&nbsp;├── patterns/  
+&nbsp;&nbsp;└── templates/
 
 ## ✅ Problems Solved
 
