@@ -4,9 +4,9 @@
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 45 |
-| 🟡 Medium | 62 |
-| 🔴 Hard | 12 |
-| **Total** | **119** |
+| 🟢 Easy | 1 |
+| 🟡 Medium | 0 |
+| 🔴 Hard | 0 |
+| **Total** | **1** |
 
 ## 🗂️ Structure
